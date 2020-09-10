@@ -1,0 +1,114 @@
+{
+  "main": {
+    "name": "Tanishq Singh Anand",
+    "occupation": "React Native developer",
+    "description": "Night developer . Love Coding",
+    "image": "My passport size photo.jpg",
+    "bio": "My name is Tansihq , I'm a React Native developer. Currently I'm in grade 8 at YPS mohali ",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "anandtanishqs@gmail.com",
+    "phone": "+91 7837552077",
+    "address": {
+      "street": "#2532 Phase 7 Mohali",
+      "city": "India",
+      "state": "Punjab",
+      "zip": "160062"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/tanishq.singhanand/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/tanishq-anand-53a3b41b0/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/tanishq0504/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/TanishqSinghAnand",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Yadavindra Public School Mohali",
+        "class": "Class = 8"
+      }
+    ],
+    "skills": [
+      {
+        "name": "React Native",
+        "level": "90%"
+      },
+      {
+        "name": "React",
+        "level": "90%"
+      },
+      {
+        "name": "Git",
+        "level": "82%"
+      },
+      {
+        "name": "Python",
+        "level": "40%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"87%"
+      },
+      {
+        "name": "HTML5",
+        "level": "100%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name":"Node.js",
+        "level":"75%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": " YPS Google",
+        "category": "Google clone built with react native",
+        "image": "YPS_Google.png"
+      },
+      {
+        "title": "Attendence app",
+        "category": "Attendence App built with react native",
+        "image": "Attendence App.png"
+      },
+      {
+        "title": "Snake Game",
+        "category": "Snake Game made with Javascript (P5.js)",
+        "image": "Snake Game.png"
+      },
+      {
+        "title": "Calculator",
+        "category": "Calculator made with Javascript",
+        "image": "Calculator.png"
+      },
+      {
+        "title": "Tic-Tac-Toe",
+        "category": "Tic-Tac-Toe made with Javascript (P5.js)",
+        "image": "Tic-Tac-Toe.png"
+      }
+    ]
+  }
+}
